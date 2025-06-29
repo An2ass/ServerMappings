@@ -1,0 +1,26 @@
+{
+  "id": "veinmc",
+  "name": "VeinMC",
+  "description": "Night Of Champions.",
+  "addresses": ["veinmc.com"],
+  "primaryAddress": "play.veinmc.com",
+  "gameTypes": ["PvP", "Minigames"],
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#0C0F12",
+  "minecraftVersions": ["1.8.9"],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": ["ar", "en"],
+  "primaryLanguage": "ar",
+  "regions": ["AS", "EU"],
+  "primaryRegion": "AS",
+  "serverLinks": {
+    "store": "https://veinmc.tebex.io/"
+  },
+  "socials": {
+    "discord": "https://discord.gg/veinmc"
+  },
+  "compliance": {
+    "rules": "https://veinmc.tebex.io/rules"
+  },
+  "crossplay": false
+}
